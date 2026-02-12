@@ -34,11 +34,11 @@ Perfect demo for AI/ML interviews in 2026 — shows real RAG engineering without
 - **Deployment ready**: Docker support (coming soon)
 
 ## Project Structure
-├── app.py                  # Streamlit frontend + full RAG pipeline
-├── api.py                  # Optional FastAPI backend version
-├── evaluate.py             # Simple evaluation script
-├── requirements.txt
-├── .env.example
-├── README.md
-├── data/                   # Put sample papers here (not committed)
-└── chroma_db/              # Local vector store (git ignore)
+-app.py                  # Streamlit frontend + full RAG pipeline
+-api.py                  # Optional FastAPI backend version
+-evaluate.py             # Simple evaluation script
+-requirements.txt
+-.env.example
+-README.md
+-data/                   # Put sample papers here (not committed)
+-chroma_db/              # Local vector store (git ignore)
