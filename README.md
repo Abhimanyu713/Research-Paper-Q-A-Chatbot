@@ -14,7 +14,6 @@ This one goes further:
 - Evaluation metrics included (faithfulness, answer relevance)  
 - Designed to handle academic papers (arXiv-style PDFs) — great for students, researchers, interviewers
 
-Perfect demo for AI/ML interviews in 2026 — shows real RAG engineering without any model fine-tuning.
 
 ## Features
 - Upload one or multiple research papers (PDF)  
